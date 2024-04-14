@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
@@ -5985,11 +5985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "c:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "packagesPath": "C:\\Users\\themy\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
+      "outputPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\themy\\AppData\\Roaming\\NuGet\\NuGet.Config",

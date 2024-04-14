@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "c:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\themy\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\themy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,8 @@
               "version": "[5.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.2, )"
             },
