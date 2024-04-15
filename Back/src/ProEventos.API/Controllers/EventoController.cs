@@ -4,6 +4,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using ProEventos.API.Data;
 using ProEventos.API.Models;
@@ -14,11 +15,13 @@ namespace ProEventos.API.Controllers
     [Route("api/[controller]")]
     public class EventoController : ControllerBase
     {
-       public readonly DataContext _context;
+       
+        private readonly DataContext _context;
 
        public  EventoController (DataContext context){
+            _context = context;
         
-        _context = context;
+        
 
        }
       
@@ -32,9 +35,9 @@ namespace ProEventos.API.Controllers
           return _context.Eventos.ToList();
         }
         [HttpGet("{id}")]
-        public IEnumerable<Evento> GetById(int id)
+        public Evento GetById(int id)
         {
-          return null;
+          return _context.Eventos.FirstOrDefault(evento => evento.EventoId == id);
           
         }
          [HttpPost]

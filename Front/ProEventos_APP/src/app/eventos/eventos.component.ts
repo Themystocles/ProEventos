@@ -1,15 +1,27 @@
 import { Component, OnInit } from '@angular/core';
+import { EventosService } from '../eventos.service';
+import { EventoModel } from 'EventoModel';
 
 @Component({
   selector: 'app-eventos',
   templateUrl: './eventos.component.html',
   styleUrls: ['./eventos.component.scss']
 })
-export class EventosComponent{
+export class EventosComponent implements OnInit{
 
-  public eventos: any = [{Tema: 'Angular', Local: 'belo horizonte'},
-  {Tema: 'C#', Local: 'Fortaleza'},
-  {Tema: 'GIT', Local: 'São paulo'}
-  ]
+  public eventos!: EventoModel[]
+
+  constructor(public eventoservices:EventosService) {
+    
+    
+  }
+
+  ngOnInit(): void {
+    this.geteventos()
+  }
+
+  public geteventos(){
+    this.eventoservices.getEventos().subscribe(res => this.eventos = res)
+  }
 
 }
