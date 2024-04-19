@@ -9,7 +9,10 @@ import { EventoModel } from 'EventoModel';
 })
 export class EventosComponent implements OnInit{
 
-  public eventos!: EventoModel[]
+  public eventos: EventoModel[] = []
+  public eventosById?: EventoModel 
+  public eventoId! : string
+  
 
   constructor(public eventoservices:EventosService) {
     
@@ -18,10 +21,17 @@ export class EventosComponent implements OnInit{
 
   ngOnInit(): void {
     this.geteventos()
+    this.getEventosById()
   }
 
   public geteventos(){
     this.eventoservices.getEventos().subscribe(res => this.eventos = res)
+  }
+
+  public getEventosById(){
+    
+    this.eventoservices.getEventosById(this.eventoId).subscribe(res => this.eventosById = res)
+
   }
 
 }

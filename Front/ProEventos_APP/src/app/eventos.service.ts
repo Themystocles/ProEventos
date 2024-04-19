@@ -17,7 +17,7 @@ export class EventosService {
    }
 
    getEventosById(id: string): Observable<EventoModel>{
-    const UrlId = `${this.url}/${id}`
+    const UrlId = `${this.url}${id}`
     return this.http.get<EventoModel>(UrlId)
    }
 

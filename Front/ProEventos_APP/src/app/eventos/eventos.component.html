@@ -6,6 +6,11 @@
         {{evento.tema}}
         {{evento.local}}
         {{evento.lote}}
-
+<hr>
     </li>
+    <hr>
+   <input [(ngModel)]="eventoId"><button (click)="getEventosById()">Clique</button>
+    {{eventosById?.local}}
+    {{eventosById?.lote}}
+ 
 </ul>
