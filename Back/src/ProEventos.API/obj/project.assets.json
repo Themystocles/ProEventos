@@ -1593,6 +1593,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "ProEventos.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ProEventos.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProEventos.Application.dll": {}
+        }
       }
     }
   },
@@ -5968,6 +5978,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "ProEventos.Application/1.0.0": {
+      "type": "project",
+      "path": "../ProEventos.Application/ProEventos.Application.csproj",
+      "msbuildProject": "../ProEventos.Application/ProEventos.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5976,6 +5991,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 5.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.2",
+      "ProEventos.Application >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -6005,7 +6021,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj": {
+              "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
