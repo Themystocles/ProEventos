@@ -10,3 +10,9 @@ C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src
 C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
 C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
 C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache

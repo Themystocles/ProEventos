@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
-using ProEventos.API.Data;
-using ProEventos.API.Models;
+using ProEventos.Persistence;
+using ProEventos.Domain;
+
+
+
+
 
 namespace ProEventos.API.Controllers
 {
@@ -15,17 +19,15 @@ namespace ProEventos.API.Controllers
     [Route("api/[controller]")]
     public class EventosController : ControllerBase
     {
-       
+       // Essa é a chamada do meu contexto na minha controler e o "READONLY" siguinifica que ele não pode ser alterado após a inicialização. o valor desse campo se torna apenas leitura. 
         private readonly DataContext _context;
 
        public  EventosController (DataContext context){
             _context = context;
         
-      
-
+    
        }
-      
-  
+
      
           [HttpGet]
         public IEnumerable<Evento> Get()
@@ -36,7 +38,7 @@ namespace ProEventos.API.Controllers
         [HttpGet("{id}")]
         public Evento GetById(int id)
         {
-          return _context.Eventos.FirstOrDefault(evento => evento.EventoId == id);
+          return _context.Eventos.FirstOrDefault(evento => evento.Id == id);
           
         }
          [HttpPost]

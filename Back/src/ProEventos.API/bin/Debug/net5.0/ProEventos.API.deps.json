@@ -326,6 +326,9 @@
             "assemblyVersion": "2.8.0.0",
             "fileVersion": "2.8.26.1919"
           }
+        },
+        "compile": {
+          "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
       "Microsoft.CSharp/4.7.0": {},
@@ -1368,11 +1371,37 @@
         }
       },
       "ProEventos.Application/1.0.0": {
+        "dependencies": {
+          "ProEventos.Domain": "1.0.0",
+          "ProEventos.Persistence": "1.0.0"
+        },
         "runtime": {
           "ProEventos.Application.dll": {}
         },
         "compile": {
           "ProEventos.Application.dll": {}
+        }
+      },
+      "ProEventos.Domain/1.0.0": {
+        "runtime": {
+          "ProEventos.Domain.dll": {}
+        },
+        "compile": {
+          "ProEventos.Domain.dll": {}
+        }
+      },
+      "ProEventos.Persistence/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.2",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2",
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.2",
+          "ProEventos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProEventos.Persistence.dll": {}
+        },
+        "compile": {
+          "ProEventos.Persistence.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3791,6 +3820,16 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "ProEventos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProEventos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProEventos.Persistence/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
