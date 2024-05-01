@@ -1,0 +1,20 @@
+.menu-items {
+    display: flex;
+    gap: 20px; /* Adiciona espaçamento entre os itens do menu */
+  }
+  
+  .mat-button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .mat-icon {
+    margin-right: 8px; /* Adiciona espaçamento entre o ícone e o texto */
+  }
+  .menu-items a {
+    color: white;
+  }
+  .menu-title {
+    margin-bottom: 10px;
+  }

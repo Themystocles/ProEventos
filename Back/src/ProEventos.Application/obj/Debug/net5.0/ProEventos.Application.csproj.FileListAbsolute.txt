@@ -1,0 +1,17 @@
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csprojAssemblyReference.cache
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
