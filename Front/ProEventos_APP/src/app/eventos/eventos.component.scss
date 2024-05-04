@@ -1,0 +1,41 @@
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.custom-table th, .custom-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.custom-table th {
+    background-color: #4e4545;
+}
+
+.custom-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.custom-table tbody tr:hover {
+    background-color: #ddd;
+}
+
+.btn {
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    margin-right: 5px;
+}
+
+.btn-edit {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-delete {
+    background-color: #dc3545;
+    color: #fff;
+}
