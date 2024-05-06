@@ -1,16 +1,38 @@
-<h1>Eventos</h1>
-
-
-<ul>
-    <li *ngFor="let evento of eventos">
-        {{evento.tema}}
-        {{evento.local}}
-        {{evento.lote}}
+<h2>Eventos</h2>
 <hr>
-    </li>
-    <hr>
-   <input [(ngModel)]="eventoId"><button (click)="getEventosById()">Clique</button>
-    {{eventosById?.local}}
-    {{eventosById?.lote}}
- 
-</ul>
+<form action="" class="form-inline">
+    <div class="form-group mb-2">
+        <input type="text" class="form-control mr-2" placeholder="Buscar">
+        <button class="btn btn-outline-sucess">Buscar</button>
+    </div>
+</form>
+<table class="custom-table">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Image</th>
+            <th>Tema</th>
+            <th>Local</th>
+            <th>Data</th>
+            <th>Qtd Pessoas</th>
+            <th>Lote</th>
+            <th>Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><img src="caminho_para_imagem.jpg" alt="Imagem"></td>
+            <td>Nome do Tema</td>
+            <td>Local do Evento</td>
+            <td>DD/MM/AAAA</td>
+            <td>10</td>
+            <td>Lote 1</td>
+            <td>
+                <button class="btn btn-edit">Editar</button>
+                <button class="btn btn-delete">Excluir</button>
+            </td>
+        </tr>
+        <!-- Repita a estrutura <tr> para adicionar mais eventos -->
+    </tbody>
+</table>
