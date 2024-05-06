@@ -9,30 +9,30 @@
 <table class="custom-table">
     <thead>
         <tr>
-            <th>#</th>
-            <th>Image</th>
-            <th>Tema</th>
-            <th>Local</th>
-            <th>Data</th>
-            <th>Qtd Pessoas</th>
-            <th>Lote</th>
-            <th>Options</th>
+            <th class="th">#</th>
+            <th class="th">Image</th>
+            <th class="th">Tema</th>
+            <th class="th">Local</th>
+            <th class="th">Data</th>
+            <th class="th">Qtd Pessoas</th>
+            <th class="th" >Lote</th>
+            <th class="th" >Options</th>
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>1</td>
-            <td><img src="caminho_para_imagem.jpg" alt="Imagem"></td>
-            <td>Nome do Tema</td>
-            <td>Local do Evento</td>
-            <td>DD/MM/AAAA</td>
-            <td>10</td>
-            <td>Lote 1</td>
+        <tr *ngFor="let evento of eventos">
+            <td>{{evento.eventoId}}</td>
+            <td>{{evento.imagemURL}}</td>
+            <td>{{evento.tema}}</td>
+            <td>{{evento.local}}</td>
+            <td>{{evento.dataEvento}}</td>
+            <td>{{evento.qtdPessoas}}</td>
+            <td>{{evento.lote}}</td>
             <td>
                 <button class="btn btn-edit">Editar</button>
                 <button class="btn btn-delete">Excluir</button>
             </td>
         </tr>
-        <!-- Repita a estrutura <tr> para adicionar mais eventos -->
+        
     </tbody>
 </table>

@@ -1,17 +1,18 @@
 .custom-table {
-    width: 100%;
+    width: 80%;
     border-collapse: collapse;
     border-spacing: 0;
+    margin: 2% ;
 }
 
 .custom-table th, .custom-table td {
     border: 1px solid #dddddd;
     padding: 8px;
-    text-align: left;
+    text-align: center;
 }
 
 .custom-table th {
-    background-color: #4e4545;
+    background-color: #11082a;
 }
 
 .custom-table tbody tr:nth-child(even) {
@@ -38,4 +39,8 @@
 .btn-delete {
     background-color: #dc3545;
     color: #fff;
+}
+.th {
+    background-color: #ddd;
+    color: white; /* Define a cor do texto como branco */
 }
