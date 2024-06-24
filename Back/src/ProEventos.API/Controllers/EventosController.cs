@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using ProEventos.Persistence;
 using ProEventos.Domain;
+using ProEventos.Persistence.Contextos;
 
 
 

@@ -20,12 +20,12 @@ export class EventosComponent implements OnInit{
   }
 
   ngOnInit(): void {
-    this.geteventos()
+   this.geteventos()
     this.getEventosById()
   }
 
   public geteventos(){
-    this.eventoservices.getEventos().subscribe(res => this.eventos = res)
+this.eventoservices.getEventos().subscribe(res => this.eventos = res)
   }
 
   public getEventosById(){

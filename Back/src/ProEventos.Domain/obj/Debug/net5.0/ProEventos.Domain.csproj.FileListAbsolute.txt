@@ -10,3 +10,15 @@ C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src
 C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
 C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
 C:\Users\themy\OneDrive\Documentos\Programação\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csprojAssemblyReference.cache
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\Users\themy\OneDrive\Documentos\Developer\C e Angular\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb

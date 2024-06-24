@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tF01Zqcau4JIMJ/TESGvef6B/0NtSxEKPJLOTl+M4deKI8tQWlQiIrDMkmnNNVWcGshPc8PKU2cZIG5KTfGXyg==",
+  "dgSpecHash": "XAxZ+tdAJZvftkrAd0FYl1EqkKsvOOGt0iSI62QGnGua+UL5366pmT8/Ojt3TUXyxMdN6mC6+O5zfg+ykmihOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+  "projectFilePath": "C:\\Users\\themy\\OneDrive\\Documentos\\Developer\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
