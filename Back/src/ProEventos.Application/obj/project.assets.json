@@ -5837,11 +5837,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\themy\\OneDrive\\Documentos\\Developer\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+      "projectUniqueName": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
       "projectName": "ProEventos.Application",
-      "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Developer\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+      "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
       "packagesPath": "C:\\Users\\themy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Developer\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Application\\obj\\",
+      "outputPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\themy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5858,11 +5858,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\themy\\OneDrive\\Documentos\\Developer\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-              "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Developer\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+            "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+              "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
             },
-            "C:\\Users\\themy\\OneDrive\\Documentos\\Developer\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
-              "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Developer\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
+            "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
+              "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj"
             }
           }
         }
