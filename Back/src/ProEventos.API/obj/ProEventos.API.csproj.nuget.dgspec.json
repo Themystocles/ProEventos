@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\proeventos.api\\ProEventos.API.csproj": {}
+    "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\proeventos.api\\ProEventos.API.csproj": {
+    "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\proeventos.api\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\proeventos.api\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\themy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\proeventos.api\\obj\\",
+        "outputPath": "C:\\Users\\themy\\OneDrive\\Documentos\\Programação\\C e Angular\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\themy\\AppData\\Roaming\\NuGet\\NuGet.Config",
